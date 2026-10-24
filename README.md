@@ -1,3 +1,9 @@
-<audio controls>
-  <source src="Introduction.mp3" type="audio/mpeg">
-</audio>
+# 🎙️ Fail & Build
+
+Breaking code, building confidence.
+
+## Episode 00 — Introduction
+
+My first unscripted recording!
+
+🎧 [Listen to my introduction](./Introduction.mp3)
